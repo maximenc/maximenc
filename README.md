@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 ### Packages
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximenc&repo=pycop)](https://github.com/maximenc/pycop)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=maximenc&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/maximenc/github-readme-stats)
+
