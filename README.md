@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Packages I created
+### Packages
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximenc&repo=pycop)](https://github.com/maximenc/pycop)
