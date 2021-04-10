@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Packages I created
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximenc&repo=pycop)](https://github.com/maximenc/pycop)
